@@ -11,3 +11,4 @@ Technology stack:
 Functionality:
 - customers list with CRUD operations
 - NIP number validating
+- Pesel number validating
